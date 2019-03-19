@@ -17,11 +17,11 @@ install:
 
 script:
  - npm run-script test
- - npm run-script build
+  - npm run-script build
 deploy:
  provider: pages
  skip_cleanup: true
- github_token: $GITHUB TOKEN
+ github_token: $GITHUB_TOKEN
  local_dir: dist
  on:
    branch: master
