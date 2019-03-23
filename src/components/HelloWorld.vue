@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>Hello Vue in CodeSandbox!</p>
+    <p>HelloKORKOR!</p>
     <h3>HELLO YIHAO KORKOR</h3>
     <ul>
       <li>
