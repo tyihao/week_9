@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>Hello Vue in CodeSandbox!</p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>HELLO YIHAO KORKOR</h3>
     <ul>
       <li>
         <a
